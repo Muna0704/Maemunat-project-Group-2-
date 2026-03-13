@@ -9,13 +9,13 @@ A simple cloud-based file storage system similar to Dropbox or Google Drive, bui
 ---
 
 ## Features
-- ☁️ Upload files to Azure Blob Storage
-- 📥 Download files from Azure Blob Storage
-- 📋 List all files in the storage container
-- 🗑️ Delete files from the storage container
-- 🔒 Secure secret management using GitHub Secrets
-- 🤖 Automated deployment with GitHub Actions
-- 📝 Activity logging for all operations
+-  Upload files to Azure Blob Storage
+-  Download files from Azure Blob Storage
+-  List all files in the storage container
+-  Delete files from the storage container
+-  Secure secret management using GitHub Secrets
+-  Automated deployment with GitHub Actions
+-  Activity logging for all operations
 
 ---
 
