@@ -1,0 +1,12 @@
+name: Test Storage Script
+
+on: [push]
+
+jobs:
+  run-script:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v3
+      - run: chmod +x storage.sh
+      - run: ./storage.sh
